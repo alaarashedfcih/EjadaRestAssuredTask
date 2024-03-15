@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86184548-75fb-4400-be54-d46d51388770" name="Changes" comment="base">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ejada/controller/BooksController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ejada/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ejada/utilities/Utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ejada/tests/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ejada/tests/books/DeleteOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ejada/tests/books/GetBookByIdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ejada/tests/books/GetBooksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ejada/tests/books/GetOrdersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ejada/tests/books/GetStatusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ejada/tests/books/SubmitOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ejada/tests/books/UpdateOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/valeo/temp/controller/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ejada/controller/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/valeo/temp/controller/BooksController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/valeo/temp/dataproviderobjects/LoginUsersData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/valeo/temp/listeners/TestListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/valeo/temp/utilities/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ejada/utilities/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/valeo/temp/utilities/CustomAnnotations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/valeo/temp/utilities/DataProviderSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/valeo/temp/utilities/EmailUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/valeo/temp/utilities/ExcelUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/valeo/temp/utilities/ExtentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/valeo/temp/utilities/Utilities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/debugMailConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/environment.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/environment.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/klov.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/liveMailConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testdata/LoginLogOutUsersData.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/valeo/temp/test/user/ValidateOnGetUserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dibcJixwcmdvVbtqZb6vuohEqN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.5137931"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ejada.utilities" />
+      <recent name="com.ejada.tests.books" />
+      <recent name="com.ejade.tests.books" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/___/Ejada/Ejada Rest Assured Task/testng.xml">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Ejada Rest Assured Task" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Ejada Rest Assured Task" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/___/Ejada/Ejada Rest Assured Task/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ejada-api-tests" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteOrderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ejada-api-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ejada.tests.books.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ejada.tests.books" />
+      <option name="MAIN_CLASS_NAME" value="com.ejada.tests.books.DeleteOrderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetOrdersTest.books_GetStatusTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ejada-api-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ejada.tests.books.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ejada.tests.books" />
+      <option name="MAIN_CLASS_NAME" value="com.ejada.tests.books.GetOrdersTest" />
+      <option name="METHOD_NAME" value="books_GetStatusTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubmitOrderTest.books_GetStatusTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ejada-api-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ejada.tests.books.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ejada.tests.books" />
+      <option name="MAIN_CLASS_NAME" value="com.ejada.tests.books.SubmitOrderTest" />
+      <option name="METHOD_NAME" value="books_GetStatusTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubmitOrderTest.books_GetStatusTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ejada-api-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ejada.tests.books.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ejada.tests.books" />
+      <option name="MAIN_CLASS_NAME" value="com.ejada.tests.books.SubmitOrderTest" />
+      <option name="METHOD_NAME" value="books_GetStatusTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/___/Ejada/Ejada Rest Assured Task/testng.xml" />
+        <item itemvalue="TestNG.GetOrdersTest.books_GetStatusTest" />
+        <item itemvalue="TestNG.SubmitOrderTest.books_GetStatusTest (1)" />
+        <item itemvalue="TestNG.SubmitOrderTest.books_GetStatusTest" />
+        <item itemvalue="TestNG.DeleteOrderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86184548-75fb-4400-be54-d46d51388770" name="Changes" comment="" />
+      <created>1710493925433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710493925433</updated>
+    </task>
+    <task id="LOCAL-00001" summary="base">
+      <option name="closed" value="true" />
+      <created>1710494563518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710494563518</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="base" />
+    <option name="LAST_COMMIT_MESSAGE" value="base" />
+  </component>
+</project>

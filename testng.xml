@@ -2,13 +2,9 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite" configfailurepolicy="continue">
 
-    <listeners>
-        <listener class-name="com.valeo.temp.listeners.TestListener"/>
-    </listeners>
-
-    <test parallel="classes" thread-count="2" name="TEMP API Tests">
+    <test parallel="classes" thread-count="1" name="API Tests">
         <packages>
-            <package name="com.valeo.temp.test.user"/>
+            <package name="com.ejada.tests.books"/>
         </packages>
     </test> <!-- Test -->
 </suite> <!-- Suite -->
